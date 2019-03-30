@@ -33,8 +33,7 @@ namespace Verimatik
 
         /// <summary>
         ///  Kaydet methodu  adı belirtilen tabloya ArrayList formatındaki kolon değerlerini kaydeder
-        ///  Ancak ID, ZamanDamgasi, EvrenselReferansID kolonları haricindeki tüm kolonların,
-        ///  veritabanındaki diziliş sırası ile ArrayList nesnesine eklenmesi gerekir.
+        /// tüm kolonların, veritabanındaki diziliş sırası ile ArrayList nesnesine eklenmesi gerekir.
         /// </summary>
         /// <param name="TabloAdi">Kayıt İşlemi yapılacak tablonun adı</param>
         /// <param name="KolonDegerleri">Veritabanı Tablosunun kolon değerleri (Array List nesnesi)</param>
@@ -190,8 +189,7 @@ namespace Verimatik
 
         /// <summary>
         ///  Guncelle methodu adı belirtilen tabloya ArrayList formatındaki kolon değerlerini kaydeder
-        ///  Ancak ID, ZamanDamgasi, EvrenselReferansID kolonları haricindeki tüm kolonların,
-        ///  veritabanındaki diziliş sırası ile ArrayList nesnesine eklenmesi gerekir.
+        ///  tüm kolonların, veritabanındaki diziliş sırası ile ArrayList nesnesine eklenmesi gerekir.
         /// </summary>
         /// <param name="TabloAdi">Güncelleme İşlemi yapılacak tablonun adı</param>
         /// <param name="KolonDegerleri">Veritabanı Tablosunun kolon değerleri</param>
