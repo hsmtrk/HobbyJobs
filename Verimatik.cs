@@ -28,7 +28,7 @@ namespace Verimatik
      
         static SqlConnection cn;
 
-        private static string cnstring ="";
+        private static string cnstring =""; // Bağlantı bilgilerinizi tanımlayınız
 
 
         /// <summary>
