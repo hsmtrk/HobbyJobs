@@ -3,7 +3,7 @@
    'VERİMATİK CLASS HAS 4 FUNCTION FOR DATA PROCESSES(AddData, SetData, DelData, GetData)
    
 response.charset = "windows-1254"
-DB_DRIVER	= "MySQL ODBC 8.0 UNICODE Driver" ' This declaretion for Mysql
+DB_DRIVER	= "MySQL ODBC 8.0 UNICODE Driver" ' This declaration for Mysql
 DB_SERVER	= "" 'server name
 DB_NAME		= "" 'database name
 DB_UID	= "" 'username
